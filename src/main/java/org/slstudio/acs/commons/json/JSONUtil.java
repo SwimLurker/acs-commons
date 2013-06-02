@@ -1,4 +1,4 @@
-package org.slstudio.acs.commons.util;
+package org.slstudio.acs.commons.json;
 
 import org.codehaus.jackson.annotate.JsonAutoDetect;
 import org.codehaus.jackson.annotate.JsonMethod;
